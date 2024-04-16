@@ -4,7 +4,7 @@ import joblib
 import warnings 
 warnings.filterwarnings('ignore')
 
-data = pd.read_csv('startup (1).csv')
+data = pd.read_csv('startUp (1).csv')
 
 #st.title('START UP PROFIT PREDICTOR APP')
 #st.subheader('Built By Salmon Crusher')
